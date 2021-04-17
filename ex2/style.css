@@ -1,0 +1,11 @@
+label {
+    color: rgb(14, 0, 207); font-weight: bold;
+}
+
+button {
+    color: white; background-color: black; height: 40px;
+}
+
+fieldset {
+    background-color: rgb(101, 137, 255);
+}
